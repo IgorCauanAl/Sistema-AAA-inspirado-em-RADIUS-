@@ -1,0 +1,53 @@
+# ===============================
+# IntelliJ IDEA Ultimate
+# ===============================
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+# ===============================
+# Java / Maven / Build
+# ===============================
+*.class
+target/
+build/
+
+# Maven Wrapper JAR gerado/baixado
+.mvn/wrapper/maven-wrapper.jar
+
+# ===============================
+# Logs
+# ===============================
+*.log
+logs/
+
+# ===============================
+# Arquivos temporários
+# ===============================
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# ===============================
+# Sistema operacional
+# ===============================
+.DS_Store
+Thumbs.db
+Desktop.ini
+.Trash-*
+.directory
+
+# ===============================
+# Segurança / Configurações locais
+# ===============================
+.env
+.env.*
+*.env
+application-local.properties
+application-local.yml
+application-dev-local.properties
+application-dev-local.yml
