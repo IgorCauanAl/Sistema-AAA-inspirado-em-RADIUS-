@@ -37,13 +37,9 @@ Cliente AAA: representa a aplicação ou serviço que encaminha solicitações d
 ## Visão Blue Team 🔵
 Na perspectiva Blue Team, o projeto está relacionado ao controle de acesso atrelado fortemente a sua base que é autenticação segura, auditoria e monitoramento de eventos.
 
-O sistema busca simular como uma aplicação pode registrar tentativas de acesso, validar permissões e gerar logs úteis para análise defensiva. Esses registros podem apoiar a identificação de acessos indevidos, falhas de autenticação, tentativas repetidas de login e ações realizadas por usuários dentro do sistema
-
-## Endpoints Principais 🔗 
+O sistema busca simular como uma aplicação pode registrar tentativas de acesso, validar permissões e gerar logs úteis para análise defensiva. Esses registros podem apoiar a identificação de acessos indevidos, falhas de autenticação, tentativas repetidas de login e ações realizadas por usuários dentro do sistema.
 
 ## Diagrama do Fluxo do Projeto 📊
-
-## Como Executar 🚀
 
 ## Aprendizados
 
